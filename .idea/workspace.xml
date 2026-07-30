@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c5c2dff-6f44-445d-abf8-1778bbf2b08c" name="Changes" comment="" />
+    <list default="true" id="4c5c2dff-6f44-445d-abf8-1778bbf2b08c" name="Changes" comment="CMF TK Setup Commit">
+      <change afterPath="$PROJECT_DIR$/.env-template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumbnail-alt.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumbnail.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/workshop/change-notes.bbcode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/workshop/translations/translation_template.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/workshop/workshop-description.bbcode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in_game/gfx/map/map_modes/00_koppen_map_modes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "clickypoo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/clickypoo/Koppen-Climate-Classification-Mapmode-Colours.git",
+    "accountId": "dec97bee-f520-43be-96b6-542b37d1b130"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -27,6 +55,11 @@
     "last_opened_file_path": "C:/Users/jamie/OneDrive/Documents/Paradox Interactive/Europa Universalis V/mod/Köppen Climate Classification Mapmode Colours"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jamie\OneDrive\Documents\Paradox Interactive\Europa Universalis V\mod\Köppen Climate Classification Mapmode Colours" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4c5c2dff-6f44-445d-abf8-1778bbf2b08c" name="Changes" comment="" />
@@ -35,6 +68,30 @@
       <option name="presentableId" value="Default" />
       <updated>1785447604772</updated>
     </task>
+    <task id="LOCAL-00001" summary="CMF TK Setup Commit">
+      <option name="closed" value="true" />
+      <created>1785447735398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785447735398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CMF TK Setup Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="CMF TK Setup Commit" />
   </component>
 </project>
