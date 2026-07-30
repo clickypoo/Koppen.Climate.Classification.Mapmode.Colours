@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Köppen Climate Classification Mapmode Colours",
+	"id":	"Koppen.Mapmode.Colours",
+	"version":	"1.0",
+	"supported_game_version":	"1.4.*",
+	"short_description":	"Köppen climate classification colours for the climate map mode",
+	"tags":	["User Interface"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
