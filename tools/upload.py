@@ -22,7 +22,8 @@ from steamworks.enums import EItemUpdateStatus, EResult, EWorkshopFileType
 SOURCES = [
     "in_game",
     "main_menu",
-	"loading_screen"
+	"loading_screen",
+	"World_Koppen_Gerrit_Hendriksen.kml"
     # "LICENSE", - example of adding a file to the release
 ]
 
