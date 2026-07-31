@@ -1,0 +1,18 @@
+﻿
+colors = {
+	koppen_climate_arctic = rgb { 0 125 125 }
+	koppen_climate_continental = rgb { 55 200 255 }
+	koppen_climate_mediterranean = rgb { 255 255 0 }
+	koppen_climate_tropical = rgb { 70 170 250 }
+	koppen_climate_subtropical = rgb { 200 255 80 }
+	koppen_climate_arid = rgb { 255 0 0 }
+	koppen_climate_cold_arid = rgb { 255 150 150 }
+	koppen_climate_oceanic = rgb { 100 255 80 }
+
+	koppen_climate_hot_semi_arid = rgb { 245 165 0 }
+	koppen_climate_cold_semi_arid = rgb { 255 220 100 }
+	koppen_climate_subpolar = rgb { 75 80 180 }
+
+	koppen_water = rgb { 65 100 135 }
+
+}
