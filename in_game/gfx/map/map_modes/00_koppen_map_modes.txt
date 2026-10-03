@@ -103,7 +103,6 @@ REPLACE:climate = {
 
 	map_color = {
 		if = { limit = { is_land = no } value = koppen_water }
-		else_if = { limit = { climate = arctic } value = koppen_climate_arctic }
 		else_if = { limit = { climate = continental } value = koppen_climate_continental }
 		else_if = { limit = { climate = mediterranean } value = koppen_climate_mediterranean }
 		else_if = { limit = { climate = tropical } value = koppen_climate_tropical }
@@ -111,6 +110,10 @@ REPLACE:climate = {
 		else_if = { limit = { climate = arid } value = koppen_climate_arid }
 		else_if = { limit = { climate = cold_arid } value = koppen_climate_cold_arid }
 		else_if = { limit = { climate = oceanic } value = koppen_climate_oceanic }
+		else_if = { limit = { climate = cold_semi_arid } value = koppen_climate_cold_semi_arid }
+		else_if = { limit = { climate = hot_semi_arid } value = koppen_climate_hot_semi_arid }
+		else_if = { limit = { climate = subpolar } value = koppen_climate_subpolar }
+		else_if = { limit = { climate = arctic } value = koppen_climate_arctic }
 		else = {
 			value = rgb { 0 0 0 }
 		}
@@ -123,6 +126,9 @@ REPLACE:climate = {
 	legend_key = { desc = "koppen_arid" color = koppen_climate_arid }
 	legend_key = { desc = "koppen_cold_arid" color = koppen_climate_cold_arid }
 	legend_key = { desc = "koppen_oceanic" color = koppen_climate_oceanic }
+	legend_key = { desc = "koppen_cold_semi_arid" color = koppen_climate_cold_semi_arid }
+	legend_key = { desc = "koppen_hot_semi_arid" color = koppen_climate_hot_semi_arid }
+	legend_key = { desc = "koppen_subpolar" color = koppen_climate_subpolar }
 	tooltip_key = { }
 
 	small_map_names = climate
